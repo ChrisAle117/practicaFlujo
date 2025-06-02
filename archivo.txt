@@ -1,3 +1,26 @@
 Contenido inicial del proyecto.
+<<<<<<< HEAD
 Hotfix: Correcion critica 1.
 Hotfix: Correcion critica 2.
+=======
+<<<<<<< HEAD
+Release: Preparacion para la liberacion.
+=======
+Develop: Inicio de desarrollo de nuevas caracteristicas.
+<<<<<<< HEAD
+<<<<<<< HEAD
+User1: Caracteristica A - Parte 1.
+User1: Caracteristica A - Parte 2.
+=======
+User2: Caracteristica B - Parte 1.
+User2: Caracteristica B - Parte 2.
+User2: Caracteristica B - Parte 3.
+User2: Caracteristica B - Parte 4.
+>>>>>>> 0bfbe027bad433cdfddec3792bd94740db6efc6d
+=======
+User3: Bugfix C - Parte 1.
+User3: Bugfix C - Parte 2.
+>>>>>>> 325f68416a5bf8f1111b3933b3a096ee13b3377c
+>>>>>>> 43a3303140a0326c24a923d6eaf52a67c825d0fd
+Release: Ajustes finales antes de produccion.
+>>>>>>> d555565626ff8b37a87cac18a89476d456bc7d46

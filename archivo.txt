@@ -1,6 +1,7 @@
 Contenido inicial del proyecto.
 Develop: Inicio de desarrollo de nuevas caracteristicas.
 <<<<<<< HEAD
+<<<<<<< HEAD
 User1: Caracteristica A - Parte 1.
 User1: Caracteristica A - Parte 2.
 =======
@@ -9,3 +10,7 @@ User2: Caracteristica B - Parte 2.
 User2: Caracteristica B - Parte 3.
 User2: Caracteristica B - Parte 4.
 >>>>>>> 0bfbe027bad433cdfddec3792bd94740db6efc6d
+=======
+User3: Bugfix C - Parte 1.
+User3: Bugfix C - Parte 2.
+>>>>>>> 325f68416a5bf8f1111b3933b3a096ee13b3377c
